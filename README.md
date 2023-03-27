@@ -1,5 +1,6 @@
-# Hi there 👋
-🔭 I’m currently working on nganggur (work tapi nganggur, ape coba)
+# Selamat datang! 👋
+
+Perkenalkan nama saya Rizky Denianto yang merupakan pengembang dari perangkat lunak sederhana dan memiliki motto "Mengembangkan sesuatu jika ingin dikembangkan dan tidak jika tidak, simpel". Mungkin cukup sekian perkenalan singkat dari saya, silahkan lihat dan coba proyek-proyek yang telah saya buat.
 
 <!--
 **rizkydenianto/rizkydenianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
