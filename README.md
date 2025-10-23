@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rizkydenianto@proton.me)
 [![Github](https://img.shields.io/github/followers/rizkydenianto?label=Follow&style=social)](https://github.com/rizkydenianto)
 
-- 💻 Owner of [**SEGUBI**](https://segubi.com/) github organization.
+- 💻 Owner of [**SEGUBI**](https://segubi.com/).
 - ⚒️ Using [Gitea](https://git.segubi.com/) and [GitHub](https://github.com/) to grow my idea.
 - 🤔 I’m currently learning [Rust](https://www.rust-lang.org/), [SolidJS](https://www.solidjs.com/), and [Tauri]([https://flutter.dev/](https://v2.tauri.app/)).
 - 📫 How to reach me: rizkydenianto@proton.me
