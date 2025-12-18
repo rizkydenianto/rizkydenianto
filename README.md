@@ -9,7 +9,7 @@
 
 - 💻 Owner of [**SEGUBI**](https://github.com/segubi).
 - ⚒️ Using [Gitea](https://git.segubi.com/) and [GitHub](https://github.com/) to grow my idea.
-- 🤔 I’m currently learning [Rust](https://www.rust-lang.org/), [SolidJS](https://www.solidjs.com/), and [Tauri]([https://flutter.dev/](https://v2.tauri.app/)).
+- 🤔 I’m currently learning [Rust](https://www.rust-lang.org/), [SolidJS](https://www.solidjs.com/), and [Tauri](https://v2.tauri.app/).
 - 📫 How to reach me: rizkydenianto@proton.me
 
 ### 🖥 Skills
